@@ -1,0 +1,6 @@
+20080129 BLFoley
+
+Over the last few days, I separated RVESIM.c into component files in
+order to facilitate generation of a version that will simulate absorption
+spectra.  First, I will need to move many global variable initializations
+to the main function.

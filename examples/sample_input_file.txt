@@ -1,0 +1,17 @@
+OUTPREF 	sample
+UNITS  		nm
+RESOLUTION  	0.5
+EFFICIENCY 	1
+DETECTION   	p
+SCAN  		s
+CUTOFF 		0.001
+INTERACTIVE  	n
+MINPOINT 	150
+MAXPOINT  	400
+POINTSTEP   	0.1
+MAXIMUM 	1.1e6
+ROVIBSIM  	Y	sample_state_file.txt	sample_transition_file.txt
+NUMAT  		1	He-data.txt	0.1
+NUMOT  		0
+NUMEX  		0 
+ABSEMISS	A

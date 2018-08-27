@@ -1,0 +1,7 @@
+20080129 BLF Need to change the structure of the input file
+	(eventually need to rewrite code...)
+
+20080125 BLF  Changing RVESIM.c to allow for absorption
+	BUT FIRST...  I'm splitting the code into smaller files and
+		moving them to a "src" directory
+
